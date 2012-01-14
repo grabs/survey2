@@ -1,0 +1,84 @@
+/* styles using by survey */
+.survey_required_mark {
+    color: #FF0000;
+}
+
+.survey_switchrequired img{
+}
+
+div.missingrequire {
+	background:#FFAAAA;
+}
+
+span.survey_info {
+	font-weight:bold;
+}
+div.survey_item_box_left, div.survey_item_box_right {
+}
+
+div.survey_depend {
+	background:#DDDDDD;
+}
+
+div.survey_complete_depend {
+	background:#EEEEEE;
+}
+
+span.survey_depend {
+	color:#ff0000;
+}
+
+div.survey_item_number_left, div.survey_item_left {
+	float:left;
+}
+div.survey_item_number_right, div.survey_item_right {
+	float:right;
+}
+
+div.survey_item_commands_left {
+	float:right;
+	text-align:right;
+}
+
+div.survey_item_commands_right {
+	float:left;
+	text-align:left;
+}
+
+li.survey_item_check_h_left,
+li.survey_item_check_h_right,
+li.survey_item_select_h_left,
+li.survey_item_select_h_right,
+li.survey_item_radio_h_left,
+li.survey_item_radio_h_right{
+	list-style-type:none;
+	display:inline;
+}
+
+li.survey_item_check_v_left,
+li.survey_item_check_v_right,
+li.survey_item_select_v_left,
+li.survey_item_select_v_right,
+li.survey_item_radio_v_left,
+li.survey_item_radio_v_right{
+	list-style-type:none;
+	display:block;
+}
+
+div.survey_item_captcha_text_left,
+div.survey_item_captcha_img_left {
+	display:inline;
+	margin: 5px;
+}
+div.survey_item_captcha_text_right,
+div.survey_item_captcha_img_right {
+	display:inline;
+	margin: 5px;
+}
+
+hr.survey_pagebreak {
+	height:8px;
+	color:#aaaaaa;
+	background-color:#aaaaaa;
+	border:0px;
+}
